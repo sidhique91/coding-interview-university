@@ -39,6 +39,9 @@
 
 ## GeeksForGeeks
 
+<details><summary>Mathematical</summary>
+<p>
+
 ### Mathematical
 
 - [X] [Print the pattern](https://practice.geeksforgeeks.org/problems/print-the-pattern-set-1/1)
@@ -69,6 +72,9 @@
 - [ ] [Pairs of prime numbers]()
 - [ ] [Mathematical Algorithms]()
 - [ ] [Number Theory]()
+
+</p>
+</details>
 
 ### Puzzles
 
