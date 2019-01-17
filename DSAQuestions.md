@@ -4,6 +4,9 @@
 
 ## Table of Contents
 
+<details><summary>GeeksForGeeks</summary>
+<p>
+	
 - [GeeksForGeeks](#geeksforgeeks)
 	- [Mathematical](#mathematical)
 	- [Puzzles](#puzzles)
@@ -29,8 +32,10 @@
 	- [Dynamic Programming](#dynamic-programming)
 	- [Backtracking](#backtracking)
 	- [Trie](#trie)
-	- [Miscellaneous](#miscellaneous)	
+	- [Miscellaneous](#miscellaneous)
 	
+</p>
+</details>
 
 ## GeeksForGeeks
 
