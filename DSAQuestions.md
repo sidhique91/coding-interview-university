@@ -42,6 +42,8 @@
 <details><summary>Mathematical</summary>
 <p>
 
+### Mathematical
+
 - [X] [Print the pattern](https://practice.geeksforgeeks.org/problems/print-the-pattern-set-1/1)
 - [X] [Print table](https://practice.geeksforgeeks.org/problems/print-table/0)
 - [X] [Series AP]()
