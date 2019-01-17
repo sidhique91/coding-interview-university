@@ -4,9 +4,6 @@
 
 ## Table of Contents
 
-<details><summary>GeeksForGeeks</summary>
-<p>
-	
 - [GeeksForGeeks](#geeksforgeeks)
 	- [Mathematical](#mathematical)
 	- [Puzzles](#puzzles)
@@ -34,13 +31,8 @@
 	- [Trie](#trie)
 	- [Miscellaneous](#miscellaneous)
 	
-</p>
-</details>
 
 ## GeeksForGeeks
-
-<details><summary>Mathematical</summary>
-<p>
 
 ### Mathematical
 
@@ -72,9 +64,6 @@
 - [ ] [Pairs of prime numbers]()
 - [ ] [Mathematical Algorithms]()
 - [ ] [Number Theory]()
-
-</p>
-</details>
 
 ### Puzzles
 
