@@ -67,10 +67,10 @@
 
 ### Puzzles
 
-- [ ] [Count Squares]()
-- [ ] [3 Divisors]()
-- [ ] [Check if four points form a square]()
-- [ ] [Check for power]()
+- [X] [Count Squares]()
+- [X] [3 Divisors]()
+- [X] [Check if four points form a square]()
+- [X] [Check for power]()
 - [ ] [Overlapping rectangles]()
 - [ ] [Trailing zeroes in factorial]()
 - [ ] [Angle between hour and minute hand]()
