@@ -58,10 +58,10 @@
 - [X] [Perfect Numbers]()
 - [X] [Pair cube count]()
 - [ ] [Find Nth root of M]()
-- [ ] [Prime Number]()
+- [X] [Prime Number]()
 - [X] [Sieve of Eratosthenes]()
-- [ ] [Sum of all prime numbers between 1 and N.]()
-- [ ] [Pairs of prime numbers]()
+- [X] [Sum of all prime numbers between 1 and N.]()
+- [X] [Pairs of prime numbers]()
 - [ ] [Mathematical Algorithms]()
 - [ ] [Number Theory]()
 
