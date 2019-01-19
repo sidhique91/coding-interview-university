@@ -67,19 +67,19 @@
 
 ### Puzzles
 
-- [X] [Count Squares]()
-- [X] [3 Divisors]()
-- [X] [Check if four points form a square]()
-- [X] [Check for power]()
-- [ ] [Overlapping rectangles]()
-- [ ] [Trailing zeroes in factorial]()
-- [ ] [Angle between hour and minute hand]()
-- [ ] [Number Of Open Doors]()
-- [ ] [Triangular Numbers]()
-- [ ] [Nth Even Fibonacci Number]()
-- [ ] [Last two digit Fibonacci]()
-- [ ] [Squares in a Matrix]()
-- [ ] [Day of the week]()
+- [X] [Count Squares](https://practice.geeksforgeeks.org/problems/count-squares/0)
+- [X] [3 Divisors](https://practice.geeksforgeeks.org/problems/3-divisors/0)
+- [X] [Check if four points form a square](https://practice.geeksforgeeks.org/problems/is-square/0)
+- [X] [Check for power](https://practice.geeksforgeeks.org/problems/check-if-a-number-is-power-of-another-number/0)
+- [X] [Overlapping rectangles](https://practice.geeksforgeeks.org/problems/3-divisors/0)
+- [X] [Trailing zeroes in factorial](https://practice.geeksforgeeks.org/problems/overlapping-rectangles/0)
+- [X] [Angle between hour and minute hand](https://practice.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand/0)
+- [X] [Number Of Open Doors](https://practice.geeksforgeeks.org/problems/number-of-open-doors/0)
+- [X] [Triangular Numbers](https://practice.geeksforgeeks.org/problems/triangular-number/0)
+- [X] [Nth Even Fibonacci Number](https://practice.geeksforgeeks.org/problems/nth-even-fibonacci-number/0)
+- [X] [Last two digit Fibonacci](https://practice.geeksforgeeks.org/problems/last-two-digit-fibonacci/0)
+- [X] [Squares in a Matrix](https://practice.geeksforgeeks.org/problems/squares-in-a-matrix/0)
+- [ ] [Day of the week](https://practice.geeksforgeeks.org/problems/day-of-the-week/0)
 - [ ] [More Info]()
 
 ### Arrays
