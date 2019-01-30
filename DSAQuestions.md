@@ -137,10 +137,10 @@
 - [X] [Longest Distinct characters in string]()
 - [ ] [Longest Palindromic Substring]()
 - [X] [Find k-th character in string]()
-- [ ] [Smallest window in a string containing all characters of another string]()
+- [X] [Smallest window in a string containing all characters of another string]()
 - [X] [Add Binary Strings]()
 - [ ] [Multiply two Strings]()
-- [ ] [Nearest multiple of 10]()
+- [X] [Nearest multiple of 10]()
 - [ ] [String Data Structure]()
 
 ### Searching
