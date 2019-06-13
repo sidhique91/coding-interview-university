@@ -488,6 +488,7 @@
 - [ ] [Special Keyboard]()
 - [ ] [Egg Dropping Puzzle]()
 - [ ] [Optimal Strategy for a Game]()
+- [ ] [Longest Even Length Substring](https://practice.geeksforgeeks.org/problems/longest-even-length-substring/0)
 - [ ] [Dynamic Programming]()
 
 ### Backtracking
